@@ -10,6 +10,7 @@ public class Q_14681 {
         int x = Integer.parseInt(reader.readLine());
         int y = Integer.parseInt(reader.readLine());
 
+
         if (x>0 && y>0){
             System.out.println(1);
         }
