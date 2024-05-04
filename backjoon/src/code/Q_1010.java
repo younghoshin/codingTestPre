@@ -4,7 +4,9 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+// 다리놓기
 public class Q_1010 {
+
     static final int[][] bridge = new int[30][30];
 
 
