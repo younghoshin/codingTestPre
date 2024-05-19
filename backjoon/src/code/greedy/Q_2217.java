@@ -4,8 +4,6 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
-import java.util.Collections;
-import java.util.Scanner;
 
 //백준 2217번 로프 그리디 알고리즘 실버 4
 public class Q_2217 {
