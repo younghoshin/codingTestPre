@@ -13,6 +13,10 @@ public class Q_2212 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int N = Integer.parseInt(br.readLine());
         int K = Integer.parseInt(br.readLine());
+        if (K>=N){
+            System.out.println(0);
+            return;
+        }
         String[] strArr = br.readLine().split(" ");
         int[] sensor = Arrays.stream(strArr)
                 .mapToInt(Integer::parseInt)
