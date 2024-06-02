@@ -1,4 +1,4 @@
-package code.dsf;
+package code.dsfBfs;
 
 import java.io.BufferedReader;
 import java.io.IOException;
