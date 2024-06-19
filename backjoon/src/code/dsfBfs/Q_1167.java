@@ -8,7 +8,6 @@ import java.util.List;
 
 public class Q_1167 {
     static List<List<Node>> nodes;
-    static List<Integer> leafNodes = new ArrayList<>();
     static boolean[] check;
     static int max;
     static int maxNode;
