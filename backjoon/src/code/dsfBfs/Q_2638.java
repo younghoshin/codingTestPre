@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 
 
 // 백준 치즈 DFS(BFS)
-// 골드 5
+// 골드 3
 public class Q_2638 {
     static int[] dx = {-1, 1, 0, 0};
     static int[] dy = {0, 0, -1, 1};
